@@ -1,1 +1,6 @@
-{"root":"/public/"}
+{"extra": {
+        "heroku": {
+            "document-root": "public",
+            "index": "index.php"
+        }
+    }}
