@@ -1,3 +1,4 @@
 {
-        "index": "public/index.php"
+        "root":"/public",
+        "index": "index.php"
 }
